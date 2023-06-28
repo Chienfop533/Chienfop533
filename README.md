@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chien Pham</h1>
 <h3 align="center">A passionate Web developer from Vietnam</h3>
+<img align="center" src="https://media1.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47xm61oiic0px1yu07nke9gjfi60j2mpiubsc4fvm8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width='400' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chienfop533&label=Profile%20views&color=0e75b6&style=flat" alt="chienfop533" /> </p>
 
